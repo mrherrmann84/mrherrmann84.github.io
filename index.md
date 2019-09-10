@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Tile
+description: This is an updated description
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
