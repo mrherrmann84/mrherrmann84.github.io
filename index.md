@@ -1,5 +1,5 @@
 ---
-title: New Tile
+title: New Title
 description: This is an updated description
 ---
 
